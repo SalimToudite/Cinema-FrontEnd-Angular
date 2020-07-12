@@ -1,0 +1,15 @@
+.clickable{
+    cursor: pointer;
+}
+#darken{
+    background-color: black;
+    color: white;
+}
+
+img {
+    width: 100%;
+}
+.ticket{
+    margin: 5px;
+    width: 60px;
+}
